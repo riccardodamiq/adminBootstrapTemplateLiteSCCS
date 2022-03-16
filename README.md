@@ -1,3 +1,4 @@
+```
 # adminBootstrapTemplateLiteSCCS
 
 -- Database: `crud_db`
